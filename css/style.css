@@ -1,0 +1,28 @@
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.bg-grey{
+    background-color: grey;
+}
+.bg-black{
+    background-color: black;
+}
+.bg-cadetblue{
+    background-color: cadetblue;
+}
+.c-white{
+    color: white;
+}
+.ver{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.calibri{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title{
+    font-weight: 700;
+}
